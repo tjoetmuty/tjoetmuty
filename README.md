@@ -1,5 +1,5 @@
 ### Hello, I'm Tjoet Muty Ahmad!!👋
-- 🌱 I’m currently learning about Fundamental Front-End Development
+- 🌱 I’m currently learning about Front-End Development
 <!--
 **tjoetmuty/tjoetmuty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
