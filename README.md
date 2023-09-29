@@ -2,8 +2,8 @@
 - 🌱 I’m currently learning about Front-End Development
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjoetmuty)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjoetmuty)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjoetmuty&layout=compact)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjoetmuty)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
 **tjoetmuty/tjoetmuty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
