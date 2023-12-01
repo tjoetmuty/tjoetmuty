@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Tjoet Muty Ahmad ! 👋</h1>
+###Hello, I'm Tjoet Muty Ahmad ! 👋
 🌱 I’m currently learning about Front-End Development (React, Tailwind CSS)
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjoetmuty)](https://github.com/anuraghazra/github-readme-stats)-->
 
