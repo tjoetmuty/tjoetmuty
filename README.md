@@ -6,6 +6,7 @@
 
 <h3 align="left">Lets connect with me on</h3>
 <p align="left">
+<a href="https://linkedin.com/in/tjoetmuty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tjoet muty ahmad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
