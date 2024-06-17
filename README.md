@@ -1,11 +1,10 @@
 <h1 align="center">Hello 👋, I'm Tjoet Muty Ahmad</h1>
 <h3 align="center">a passionate informatics engineering student who is really interested in front end development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tjoetmuty&label=Profile%20views&color=0e75b6&style=flat" alt="tjoetmuty" /> </p>
 
 - 🌱 I’m currently learning **react using next js**
 
-- 📫 How to reach me **tjmutyahmd27@gmail.com**
+- 📫 How to reach me: **tjmutyahmd27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
