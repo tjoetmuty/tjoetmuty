@@ -2,7 +2,7 @@
 <h3 align="left">a passionate informatics engineering student who is really interested in front end development.</h3>
 
 
-- 🌱 I’m currently learning **react using next js**
+- 🌱 I’m currently learning **react using next js** and **backend development using express js**
 
 - 📫 How to reach me: **tjmutyahmd27@gmail.com**
 
