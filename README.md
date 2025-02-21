@@ -1,5 +1,5 @@
-<h1 align="left">Hello 👋, I'm Tjoet Muty Ahmad</h1>
-<h3 align="left">a passionate informatics engineering student who is really interested in front end development.</h3>
+<h1 align="center">Hello 👋, I'm Tjoet Muty Ahmad</h1>
+<h3 align="center">a passionate informatics engineering student who is really interested in front end development.</h3>
 
 
 - 🌱 I’m currently learning **react using next js** and **backend development using express js**
