@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Cut Muty</h1>
+<h1 align="center"> Hi 👋, I'm Muty</h1>
 <h3 align="center">a passionate informatics engineering student who is really interested in front end development.</h3>
 
 
